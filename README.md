@@ -60,7 +60,19 @@ with tf.Session() as sess:
   plt.plot(x_train, y_train, 'o')
   plt.plot(x_train,Weight*x_train+Bias)
   plt.show()
+  
+#output
+-------
+Epochs 0.000000 Cost 0.154752 Weight 5.665872 Bias 0.810562
+Epochs 40.000000 Cost 0.389723 Weight 6.009754 Bias 0.670748
+Epochs 80.000000 Cost 0.392550 Weight 6.015407 Bias 0.523763
+Epochs 120.000000 Cost 0.395118 Weight 6.020525 Bias 0.390661
+Epochs 160.000000 Cost 0.397452 Weight 6.025161 Bias 0.270135
+Epochs 200.000000 Cost 0.399572 Weight 6.029358 Bias 0.160994
+Epochs 240.000000 Cost 0.401493 Weight 6.033159 Bias 0.062164
+Epochs 280.000000 Cost 0.403241 Weight 6.036601 Bias -0.027329
 ```
+![](https://github.com/ULUGBEK12194914/AI_application/blob/main/visualization(screenshots)/download%20(1).png)
 #Visualization of Linear Regression parameters using TensorFlow
 ```bash  
 # Create the model for regression
@@ -110,6 +122,18 @@ with tf.Session() as sess:
   plt.plot(x_train, y_train, 'o')
   plt.plot(x_train,Weight*x_train+Bias)
   plt.show()
+  
+#output
+-------
+Epochs 0.000000 Cost 0.154752 Weight 5.665872 Bias 0.810562
+Epochs 40.000000 Cost 0.389723 Weight 6.009754 Bias 0.670748
+Epochs 80.000000 Cost 0.392550 Weight 6.015407 Bias 0.523763
+Epochs 120.000000 Cost 0.395118 Weight 6.020525 Bias 0.390661
+Epochs 160.000000 Cost 0.397452 Weight 6.025161 Bias 0.270135
+Epochs 200.000000 Cost 0.399572 Weight 6.029358 Bias 0.160994
+Epochs 240.000000 Cost 0.401493 Weight 6.033159 Bias 0.062164
+Epochs 280.000000 Cost 0.403241 Weight 6.036601 Bias -0.027329
 ```
+![](https://github.com/ULUGBEK12194914/AI_application/blob/main/visualization(screenshots)/download.png)
 #Tensorboard visualization
 ![](https://github.com/ULUGBEK12194914/AI_application/blob/main/visualization(screenshots)/Screen%20Shot%202022-10-04%20at%2015.28.26.png)
