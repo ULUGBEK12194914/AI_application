@@ -137,3 +137,18 @@ Epochs 280.000000 Cost 0.403241 Weight 6.036601 Bias -0.027329
 ![](https://github.com/ULUGBEK12194914/AI_application/blob/main/visualization(screenshots)/download.png)
 #Tensorboard visualization
 ![](https://github.com/ULUGBEK12194914/AI_application/blob/main/visualization(screenshots)/Screen%20Shot%202022-10-04%20at%2015.28.26.png)
+
+#week6 Linear Regression
+https://github.com/ULUGBEK12194914/AI_application/blob/main/LinearRegression(week6).ipynb
+
+#week6 Session2
+https://github.com/ULUGBEK12194914/AI_application/blob/main/week6(2session).ipynb
+
+#week7e1(This code example shows how to access the CIFAR-10 dataset and display the image with index 100)
+https://github.com/ULUGBEK12194914/AI_application/blob/main/week7e1.ipynb
+
+#week7e2(This code example demonstrates how to use a convolutional neural network to solve an image classification problem, using the CIFAR-10 dataset.)
+https://github.com/ULUGBEK12194914/AI_application/blob/main/week7e2.ipynb
+
+#week7e3(This code example is very similar to week7e2 but the network is modified to use a more complex network)
+https://github.com/ULUGBEK12194914/AI_application/blob/main/week7e3.ipynb
