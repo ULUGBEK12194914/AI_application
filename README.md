@@ -13,6 +13,8 @@ https://github.com/ULUGBEK12194914/AI_application/blob/main/week7e2.ipynb
 #week7e3(This code example is very similar to week7e2 but the network is modified to use a more complex network)
 https://github.com/ULUGBEK12194914/AI_application/blob/main/week7e3.ipynb
 
+#week9e1(This code example demonstrates how to use a neural network to solve a regression problem, using the Boston housing dataset)
+https://github.com/ULUGBEK12194914/AI_application/blob/main/week9e1.ipynb
 
 
 # Linear Regression using TensorFlow
