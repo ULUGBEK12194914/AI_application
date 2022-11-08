@@ -22,6 +22,9 @@ https://github.com/ULUGBEK12194914/AI_application/blob/main/w9e2.ipynb
 #week10e1
 https://github.com/ULUGBEK12194914/AI_application/blob/main/week10e1.ipynb
 
+#week11
+https://github.com/ULUGBEK12194914/AI_application/blob/main/week11.ipynb
+
 # Linear Regression using TensorFlow
 
 ```bash
