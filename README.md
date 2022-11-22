@@ -28,6 +28,10 @@ https://github.com/ULUGBEK12194914/AI_application/blob/main/week11.ipynb
 #week12
 https://github.com/ULUGBEK12194914/AI_application/blob/main/week12e1.ipynb
 
+#week13
+https://github.com/ULUGBEK12194914/AI_application/blob/main/week13.ipynb
+
+
 # Linear Regression using TensorFlow
 
 ```bash
